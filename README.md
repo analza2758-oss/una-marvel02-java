@@ -75,4 +75,4 @@ Status da Wanda: Poder máximo: Manipulação da magia do caos e do Darkhold.
 ---
 
 
-💜 Projeto acadêmico para prática de Java
+Projeto acadêmico para prática de Java.
